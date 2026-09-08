@@ -16,7 +16,17 @@
 
 **AI / ML&nbsp; • &nbsp;Backend&nbsp; • &nbsp;Full-Stack&nbsp; • &nbsp;Computer Vision&nbsp; • &nbsp;Systems**
 
-[![GitHub](https://img.shields.io/badge/GitHub-alsaahmad-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/alsaahmad)
+<p align="center">
+  <a href="https://github.com/alsaahmad">
+    <img src="https://img.shields.io/badge/GitHub-alsaahmad-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/alsa-ahmad-9005a7344/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alsa.ahmad0711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 </div>
 
