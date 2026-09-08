@@ -135,7 +135,7 @@ A full desktop library app: SHA-256 authenticated login, a live dashboard, book/
 
 ## 🎮 GitHub Space Shooter
 
-My contribution graph, turned into a Galaga-style shooter — enemies are built from real commit activity. Generated automatically via [`czl9707/gh-space-shooter`](https://github.com/czl9707/gh-space-shooter).
+My contribution graph, turned into a Galaga-style shooter — enemies are built from real commit activity. 
 
 ![My GitHub Space Shooter](game.gif)
 
