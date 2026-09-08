@@ -132,9 +132,11 @@ A full desktop library app: SHA-256 authenticated login, a live dashboard, book/
 <br/>
 
 
-## 🎮 Just for Fun
+## 🎮 GitHub Space Shooter
 
-[![Play my GitHub Space Shooter](https://img.shields.io/badge/Play-GitHub%20Space%20Shooter-0D1117?style=for-the-badge&logo=spacex&logoColor=5EEAD4)](https://raw.githubusercontent.com/alsaahmad/alsaahmad/main/game.gif)
+My contribution graph, turned into a Galaga-style shooter — enemies are built from real commit activity. Generated automatically via [`czl9707/gh-space-shooter`](https://github.com/czl9707/gh-space-shooter).
+
+*(Generates on first workflow run — trigger it once from the Actions tab, or it runs automatically after the profile-redesign PR is merged.)*
 
 <br/>
 
