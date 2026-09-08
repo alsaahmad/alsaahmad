@@ -5,7 +5,7 @@
 **AI Developer • Backend Engineer • Full-Stack Developer**
 **3rd-Year B.Tech IT @ IMS Engineering College**
 
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%20%22AI%20Developer%22%7D%2C%20%7B%22text%22%3A%20%22Backend%20Engineer%22%7D%2C%20%7B%22text%22%3A%20%22Full-Stack%20Developer%22%7D%2C%20%7B%22text%22%3A%20%22Builder%20of%20Intelligent%20Systems%22%7D%5D&font=Fira+Code&color=5EEAD4&backgroundColor=0D1117&width=560&height=50&fontSize=20&typingSpeed=0.06&deleteSpeed=0.03&pause=1400&cursorStyle=straight&border=false&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=560&height=45&size=20&duration=3500&pause=1000&color=5EEAD4&background=00000000&lines=AI+Developer;Backend+Engineer;Full-Stack+Developer;Builder+of+Intelligent+Systems" alt="Typing SVG" />
 
 <!--
   PHOTO PLACEHOLDER
@@ -13,6 +13,8 @@
   <img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%;" />
   and upload the image to an `assets/` folder in this repo.
 -->
+
+**AI / ML&nbsp; • &nbsp;Backend&nbsp; • &nbsp;Full-Stack&nbsp; • &nbsp;Computer Vision&nbsp; • &nbsp;Systems**
 
 [![GitHub](https://img.shields.io/badge/GitHub-alsaahmad-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/alsaahmad)
 
@@ -131,19 +133,19 @@ A full desktop library app: SHA-256 authenticated login, a live dashboard, book/
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🎮 GitHub Space Shooter
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alsaahmad/alsaahmad/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsaahmad/alsaahmad/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alsaahmad/alsaahmad/output/github-contribution-grid-snake.svg" />
-</picture>
+My contribution graph, turned into a Galaga-style shooter — enemies are built from real commit activity. Generated automatically via [`czl9707/gh-space-shooter`](https://github.com/czl9707/gh-space-shooter).
 
-<br/>
+<!--
+  This embed activates automatically the first time the "Update Space Shooter Game"
+  Action runs (Actions tab → Update Space Shooter Game → Run workflow, or it runs
+  on its own after this branch is merged to main). Once game.gif exists in the repo,
+  uncomment the line below:
 
-## 🎮 Just for Fun
-
-[![Play my GitHub Space Shooter](https://img.shields.io/badge/Play-GitHub%20Space%20Shooter-0D1117?style=for-the-badge&logo=spacex&logoColor=5EEAD4)](https://raw.githubusercontent.com/alsaahmad/alsaahmad/main/game.gif)
+  ![My GitHub Space Shooter](game.gif)
+-->
+*(Generates on first workflow run — see PR notes for the one-time trigger step.)*
 
 <br/>
 
