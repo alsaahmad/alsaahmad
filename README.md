@@ -5,7 +5,7 @@
 **AI Developer • Backend Engineer • Full-Stack Developer**
 **3rd-Year B.Tech IT @ IMS Engineering College**
 
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%20%22AI%20Developer%22%7D%2C%20%7B%22text%22%3A%20%22Backend%20Engineer%22%7D%2C%20%7B%22text%22%3A%20%22Full-Stack%20Developer%22%7D%2C%20%7B%22text%22%3A%20%22Builder%20of%20Intelligent%20Systems%22%7D%5D&font=Fira+Code&color=5EEAD4&backgroundColor=0D1117&width=560&height=50&fontSize=20&typingSpeed=0.06&deleteSpeed=0.03&pause=1400&cursorStyle=straight&border=false&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=560&height=45&size=20&duration=3500&pause=1000&color=5EEAD4&background=00000000&lines=AI+Developer;Backend+Engineer;Full-Stack+Developer;Builder+of+Intelligent+Systems" alt="Typing SVG" />
 
 <!--
   PHOTO PLACEHOLDER
@@ -13,6 +13,8 @@
   <img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%;" />
   and upload the image to an `assets/` folder in this repo.
 -->
+
+**AI / ML&nbsp; • &nbsp;Backend&nbsp; • &nbsp;Full-Stack&nbsp; • &nbsp;Computer Vision&nbsp; • &nbsp;Systems**
 
 [![GitHub](https://img.shields.io/badge/GitHub-alsaahmad-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/alsaahmad)
 
