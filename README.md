@@ -34,6 +34,9 @@
 
 3rd-year B.Tech IT student building AI-powered and full-stack systems — multi-agent emergency-response services, smart-city traffic platforms, and the backend architecture that holds them together. I care about API design, agent orchestration, and computer vision pipelines. I compete in hackathons because shipping something real in 24–48 hours teaches more than a semester of lectures.
 
+portfolio-  <a href="https://alsa-ahmad-portfolio-f05cmzpww-alsas-projects-737cc79e.vercel.app/"> click here</a>
+
+
 ## 🔭 Currently Building
 
 - **AEGIS AI service** — severity prediction, multi-agent orchestration, vision-based incident detection
